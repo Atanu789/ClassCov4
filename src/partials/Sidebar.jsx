@@ -48,7 +48,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
   }, [sidebarExpanded]);
 
   return (
-    <div>
+    <div className="" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 0, 0, 1)' }}>
       {/* Sidebar backdrop (mobile only) */}
       <div
         className={`fixed inset-0 bg-slate-900 bg-opacity-30 z-40 lg:hidden lg:z-auto transition-opacity duration-200  ${
@@ -66,7 +66,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
         }`}
       >
         {/* Sidebar header */}
-        <div className="flex justify-between mb-10 pr-3 sm:px-2" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 189, 38, 0.75)' }}>
+        <div className="flex justify-between mb-10 pr-3 sm:px-2" >
           {/* Close button */}
           <button
             ref={trigger}
@@ -84,10 +84,10 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
         </div>
 
         {/* Links */}
-        <div className="space-y-8">
+        <div className="space-y-8" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 0, 0, 1)' }}>
           {/* Pages group */}
           <div>
-            <h3 className="text-xs uppercase text-slate-500 font-semibold pl-3">
+            <h3 className="text-xs uppercase text-slate-500 font-semibold pl-3" >
               <span
                 className="hidden lg:block lg:sidebar-expanded:hidden 2xl:hidden text-center w-6"
                 aria-hidden="true"
@@ -95,7 +95,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
             
               </span>
             </h3>
-            <ul className="mt-3">
+            <ul className="mt-3" >
               {/* Dashboard */}
               <SidebarLinkGroup
                 activecondition={
