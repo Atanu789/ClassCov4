@@ -17,6 +17,7 @@ Chart.defaults.plugins.tooltip.caretSize = 0;
 Chart.defaults.plugins.tooltip.caretPadding = 20;
 Chart.defaults.plugins.tooltip.cornerRadius = 4;
 Chart.defaults.plugins.tooltip.padding = 8;
+//lll
 
 // Register Chart.js plugin to add a bg option for chart area
 Chart.register({
