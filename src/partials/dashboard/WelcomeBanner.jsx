@@ -17,7 +17,7 @@ const[day, setDay] = useState("Morning")
     }
   }, []);
   return (
-    <div className="relative bg-indigo-200 dark:bg-[#202020] p-4 sm:p-6 rounded-sm overflow-hidden mb-8" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 0, 0, 1)' }}>
+    <div className="relative bg-indigo-200 dark:bg-[#202020] p-4 sm:p-6 rounded-sm overflow-hidden mb-8 l:rounded-sm border border-slate-200 dark:border-slate-700 " style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 0, 0, 1)' }}>
       
       {/* Content */}
       <div className="relative">
