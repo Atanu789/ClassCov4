@@ -19,7 +19,7 @@ function DashboardCard01() {
    }
    },[reward])
   return (
-    <div className="flex flex-col col-span-full sm:col-span-6 xl:col-span-4 bg-white dark:bg-[#202020] rounded-lg l:rounded-sm border border-green-200 dark:border-green-700" style={{ boxShadow: '2px 2px px 0px rgba(0, 189, 38, 0.75)' }}>
+    <div className="flex flex-col col-span-full sm:col-span-6 xl:col-span-4 bg-white dark:bg-[#202020] rounded-lg l:rounded-sm border border-slate-200 dark:border-slate-700" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 0, 0, 1)' }}>
       <div className="px-5 pt-5">
         <header className="flex justify-end items-start mb-2">
          

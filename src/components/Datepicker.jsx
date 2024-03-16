@@ -23,7 +23,7 @@ function Datepicker({ align }) {
   };
 
   return (
-    <div className="relative">
+    <div className="relative" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 0, 0, 1)' }}>
       <Flatpickr
         className="form-input pl-9 dark:bg-slate-800 text-slate-500 hover:text-slate-600 dark:text-slate-300 dark:hover:text-slate-200 font-medium w-[15.5rem]"
         options={options}
