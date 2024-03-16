@@ -15,7 +15,7 @@ function DashboardCard10() {
       name: 'Mr Deepak Chakraborty',
       email: 'English',
      
-      spent: '$2,890.66',
+      spent: '17.03.2024',
     },
     {
       id: '1',
@@ -23,7 +23,7 @@ function DashboardCard10() {
       name: 'Mrs Shilpa Rao',
       email: 'Economics',
       
-      spent: '$2,767.04',
+      spent: '18.03.2024',
     },
     {
       id: '2',
@@ -31,7 +31,7 @@ function DashboardCard10() {
       name: 'Mr Sujay Roy',
       email: 'Science',
      
-      spent: '$2,996.00',
+      spent: '19.03.2024',
     },
     {
       id: '3',
@@ -39,7 +39,7 @@ function DashboardCard10() {
       name: 'Mr Aman Gupta',
       email: 'Mathematics',
      
-      spent: '$1,220.66',
+      spent: '20.03.2024',
     },
     {
       id: '4',
@@ -47,7 +47,7 @@ function DashboardCard10() {
       name: 'Mrs Sakhshi Mallick',
       email: 'Biology',
    
-      spent: '$1,890.66',
+      spent: '21.03.2024',
     },
   ];
 

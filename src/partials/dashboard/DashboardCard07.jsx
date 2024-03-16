@@ -52,7 +52,7 @@ function DashboardCard07() {
                   </div>
                 </td>
                 <td className="p-2">
-                  <div className="text-center">Mr A Roy</div>
+                  <div className="text-center">Mrs Anjali Saha</div>
                 </td>
                 <td className="p-2">
                   <div className="text-center text-emerald-500">4</div>
@@ -68,7 +68,7 @@ function DashboardCard07() {
                   </div>
                 </td>
                 <td className="p-2">
-                  <div className="text-center">Mrs Shilpa Rani</div>
+                  <div className="text-center">Mrs Jayita Bera</div>
                 </td>
                 <td className="p-2">
                   <div className="text-center text-emerald-500">1</div>
@@ -84,7 +84,7 @@ function DashboardCard07() {
                   </div>
                 </td>
                 <td className="p-2">
-                  <div className="text-center">Mr M Pandey</div>
+                  <div className="text-center">Mrs Sonamoni Sardar</div>
                 </td>
                 <td className="p-2">
                   <div className="text-center text-emerald-500">1</div>
@@ -100,7 +100,7 @@ function DashboardCard07() {
                   </div>
                 </td>
                 <td className="p-2">
-                  <div className="text-center">T.L.Shiny</div>
+                  <div className="text-center">Tony Stark</div>
                 </td>
                 <td className="p-2">
                   <div className="text-center text-emerald-500">2</div>
