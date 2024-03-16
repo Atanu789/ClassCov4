@@ -53,7 +53,7 @@ function DashboardCard11() {
   };
 
   return (
-    <div className="col-span-full xl:col-span-6 bg-white dark:bg-[#202020] dark:bg-slate-800 shadow-lg rounded-lg l:rounded-sm border border-slate-200 dark:border-slate-700" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 189, 38, 0.75)' }}>
+    <div className="col-span-full xl:col-span-6 bg-white dark:bg-[#202020]  shadow-lg rounded-lg l:rounded-sm border border-slate-200 dark:border-slate-700" style={{ boxShadow: '2px 2px 4px 1.5px rgba(0, 189, 38, 0.75)' }}>
       <header className="px-5 py-4 border-b border-slate-100 dark:border-slate-700">
         <h2 className="font-semibold text-slate-800 dark:text-slate-100">Overall Performance</h2>
       </header>
